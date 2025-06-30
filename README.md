@@ -1,1 +1,1 @@
-![해시 충돌 예시](https://github.com/user-attachments/assets/77183f89-b7d0-40ed-8d73-9566a5baa260)
+![hash-collision png](https://github.com/user-attachments/assets/3119cc4e-599c-45b3-abd2-a3b9a04ad64c)
